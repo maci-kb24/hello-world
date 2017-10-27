@@ -1,2 +1,5 @@
 # hello-world
-First Repository
+
+Hello,
+
+Marjan here.I like to do front end development projects.
